@@ -29,7 +29,8 @@ Opencv를 통해서 비전처리를 진행하였고 CPP를 사용하였다.
    * Hough Line 검출
    
           cv::HoughLines(region, lines, 1, CV_PI / 180, 155, 0, 0);
-          
+   
+	  <img width="400" alt="car" src="https://user-images.githubusercontent.com/66461571/142769180-425b25a1-9465-4915-81e8-868625e9f545.png">
    * 검출한 엣지 각도 지정
    
           float left = CV_PI / 4;
