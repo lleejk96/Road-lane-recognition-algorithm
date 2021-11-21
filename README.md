@@ -18,6 +18,7 @@ Opencv를 통해서 비전처리를 진행하였고 CPP를 사용하였다.
           Mat region;
           region = region_of_interest(img);
           Mat dst, cdst, cdstP;
+	  <img width="400" alt="car" src="https://user-images.githubusercontent.com/66461571/142769104-e9424c42-ef07-430e-b6d6-d7580a5096f6.png">
           
    * Canny 알고리즘 
    
