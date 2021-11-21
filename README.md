@@ -11,7 +11,7 @@ Opencv를 통해서 비전처리를 진행하였고 CPP를 사용하였다.
   * videoCapture   
   
          VideoCapture videoCapture("sample.mp4");
-  <img src=".\lee_github\Road-lane-recognition-algorithm\car.PNG"  width="700" height="370">
+  	<img width="400" alt="car" src="https://user-images.githubusercontent.com/66461571/142768976-108df56c-b40c-4b5e-a926-cc97e8c80de3.PNG">
   
   * ROI 구역 지정
   
