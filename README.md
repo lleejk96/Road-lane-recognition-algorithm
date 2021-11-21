@@ -52,3 +52,4 @@ Opencv를 통해서 비전처리를 진행하였고 CPP를 사용하였다.
                     check = false;
                   }
                 }
+		<img width="400" alt="car" src="https://user-images.githubusercontent.com/66461571/142769229-26e44a19-e418-42c2-9c28-17d19df99340.png">
